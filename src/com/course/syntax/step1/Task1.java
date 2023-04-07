@@ -1,6 +1,6 @@
-package com.course.syntax;
+package com.course.syntax.step1;
 
-public class StepFirst {
+public class Task1 {
     public static void main(String[] args) {
         byte bytevar = 127;
         short shortvar = 32767;
